@@ -1,5 +1,14 @@
-### Hi there 👋
+# Manuel de la Cueva Asencio
+<img src="http://www.mscnoticias.com.ve/wp-content/uploads/2017/06/Logo-negro.jpg"
+     width="auto" height="50px">
+<img src="https://user-images.githubusercontent.com/117769183/207703404-1a72d6ec-dff2-475a-93d3-080350e420ae.png"
+     width="auto" height="50px">
+<img src="https://user-images.githubusercontent.com/117769183/207703879-3ac0f49f-ea08-449e-a963-02b72f354c41.png"
+     width="auto" height="50px">
 
+<strong><ins>Estudiante de la Cohorte 34</ins></strong>
+
+Actualmente cursando el curso de Full-Stack Developer en 4Geeks academy, habiendo completado los primeros módulos sobre HTML y CSS, desarrollando varios de los respectivos proyectos, presentes en los repositorios.
 <!--
 **Manueldlcasencio/Manueldlcasencio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
