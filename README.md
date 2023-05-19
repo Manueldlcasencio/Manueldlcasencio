@@ -14,6 +14,7 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### Back-end:
@@ -24,13 +25,13 @@
 
 ### Interés:
 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Java](https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=java&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
 
 ## Contacto
-¡Siéntete libre de enviarme un mensaje para lo que necesites! Siempre estoy abierto a nuevos proyectos e ideas o a resolver dudas dentro de lo que conozco.
+¡Envíame un mensaje para lo que necesites! Siempre estoy abierto a nuevos proyectos e ideas o a resolver dudas dentro de lo que conozco.
 
 <a href="https://www.linkedin.com/in/manudlcasencio/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -42,7 +43,7 @@
   
   ## Stats
   
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Manueldlcasencio&theme=blueberry&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Manueldlcasencio&langs_count=6&theme=blueberry&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
 
@@ -62,4 +63,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+https://simpleicons.org/ for the icons
 -->
